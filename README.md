@@ -1,3 +1,5 @@
 Our project focuses on the design and implementation of an **autonomous mobile robot** equipped with cutting-edge navigation and localization technologies. Leveraging **Mecanum wheels** for omnidirectional movement and integrated with advanced sensors like **LiDAR** and **cameras**, this robot excels in dynamic environments. Utilizing **ROS**, the system seamlessly combines **SLAM** and **Aruco marker detection** to ensure precise localization and mapping.
 
 This project aims to revolutionize **smart logistics** by automating tasks such as package sorting, obstacle avoidance, and real-time path planning. By reducing human intervention and improving accuracy, our mobile robot enhances efficiency and reliability in industrial and warehousing operations. The project not only showcases the transformative impact of autonomous systems but also highlights the potential for scalable robotics solutions in logistics and beyond.
+
+Youtube : https://youtu.be/PQsNGyxemCU , https://youtube.com/shorts/qszqGqljGZs
